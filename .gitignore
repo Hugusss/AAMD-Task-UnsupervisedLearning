@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .DS_Store
 A2.pdf
+/venv
 
 # C extensions
 *.so
