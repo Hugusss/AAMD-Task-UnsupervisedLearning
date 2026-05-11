@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 .DS_Store
+A2.pdf
 
 # C extensions
 *.so
